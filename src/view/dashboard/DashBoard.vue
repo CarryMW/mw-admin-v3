@@ -1,11 +1,10 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+    <div>
+        控制台
+    </div>
 </template>
 
 <script setup lang="ts">
-
 
 </script>
 
